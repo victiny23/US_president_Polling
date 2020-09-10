@@ -1,0 +1,31 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+body h1 {
+        text-align: center;
+}
+
+table {
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     border: 2px solid #7d3c98;
+}
+
+table tr {
+        border: 1px solid #ddd;
+        padding: 15px;
+}
+
+table th {
+        background-color: #bb8fce;
+        padding: 10px;
+        text-align: center;
+}
+
+table td {
+        background-color: #e8daef;
+        padding: 20px;
+        text-align: center;
+}
